@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amitgit0304
+- 👋 Hi, I’m @amitgit0304 as my github Id.
 - 👀 I’m interested in Python,ML and deep learning. 
 - 🌱 I’m currently learning ML and various DSAs.
 - 💞️ I’m looking to collaborate on python and machine learning projects.
